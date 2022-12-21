@@ -1,0 +1,2 @@
+# HoliQToken
+Create Burn Token
